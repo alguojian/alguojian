@@ -3,8 +3,12 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on android
-- 🌱 I’m currently learning and sharing on my blog .  [welcome here](https://www.jianshu.com/u/6a08b3c8edf6)
+> - 🔭 I’m currently working on android 
+> - 🌱 I’m currently learning and sharing on my blog .  [welcome here](https://www.jianshu.com/u/6a08b3c8edf6)
+> - ⚡ Fun fact: ...
+
+
+
 
 <!--
 **alguojian/alguojian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
