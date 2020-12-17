@@ -1,7 +1,10 @@
-### Hi there 👋
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alguojian)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### Hi there 👋
+
+- 🔭 I’m currently working on android
+- 🌱 I’m currently learning and sharing on my blog .[welcome here](https://www.jianshu.com/u/6a08b3c8edf6)
 
 <!--
 **alguojian/alguojian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://www.jianshu.com/u/6a08b3c8edf6
